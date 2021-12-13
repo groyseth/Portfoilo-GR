@@ -130,15 +130,15 @@ a:active {
     float: left;
     height: 2000px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    order: 2;
+    
 }
-.back {
-    object-fit: cover;
-}
-.back-box {
+
+/* .back-box {
     height: 2000px;
     float: left;
     width: 17.5%;
-}
+} */
 .about-me {
     border: 3px black;
     border-style: none solid none none;
@@ -170,16 +170,36 @@ a:active {
     border-width: 2px;
     border-radius: 5px;
 } */
-
+h2 {  
+  margin-left: 4%;
+  /* margin-right: 70%; */
+  /* border: 2px solid white; */
+  border-width: 2px;
+  border-radius: 5px;
+  color: white;
+  position: relative;
+  top: 43px;
+  font-size: 54px;
+}
+h3 {
+    margin-left: 3%;
+    margin-right: 67%;
+    /* border: 2px solid white; */
+    border-width: 2px;
+    border-radius: 5px;
+    color: white;
+    position: relative;
+    top: 129px;
+    font-size: 54px;
+}
 .flexbox {
     border: 2px dotted rgb(15, 15, 15);
     border-radius: 5px;
     padding: 20px;
     width: 78%;
-    margin: 20px 183px;
+    margin: 50px 0px;
     height: 156px;
-    display: grid;
-    grid-template-columns: 44px;
+    float: left;
     
   }
 .flexbox-2 {
@@ -187,30 +207,62 @@ a:active {
     border-radius: 5px;
     padding: 20px;
     width: 78%;
-    margin: 34px 183px;
+    /* margin: 34px 183px; */
     height: 1263px;
-    display: grid;
-    /* grid-template-columns: 44px; */
-    grid-template: auto;
+    float: left;
+    flex-direction: row;
+    flex-wrap: wrap;
+    display: flex;
   }
-.coming-soon {
-    /* width: 100%; */
-    height: 100%;
-    object-fit: cover;   
-}    
-.box-flex-2 {
+      
+.box-flex-html {
     width: 100%;
     height: 50%;
     border: 5px solid black;
+}
+.img {
+    width: 100%;
+    height: 100%;
+    margin: -70px 0px;
+}   
+.box-flex-css {
+    width: 47%;
+    height: 25%;
+    border: 5px solid black;
+}
+.box-flex-javascript {
+    width: 47%;
+    height: 25%;
+    border: 5px solid black;
+    position: relative;
+    right: -76px;
 }
 .flexbox-3 {
     border: 2px dotted rgb(15, 15, 15);
     border-radius: 5px;
     padding: 20px;
     width: 78%;
-    margin: 134px 183px;
     height: 156px;
-    display: grid;
-    grid-template-columns: 44px;
+    float: left;
+    margin: 136px 0px;
   }
 
+@media screen and (max-width: 992px) {
+.jucy {
+      flex-direction: wrap;
+      color: #e91313;
+    }
+  
+  
+
+@media screen and (max-width: 768px) {
+    .flexbox {
+      flex-direction: column;
+    }
+  }
+  
+@media screen and (max-width: 576px) {
+    .flexbox {
+      flex-direction: column;
+    }
+  }
