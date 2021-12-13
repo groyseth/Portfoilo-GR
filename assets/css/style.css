@@ -251,22 +251,3 @@ h3 {
     font-size: 33px;
 
 }
-@media screen and (max-width: 992px) {
-.jucy {
-      flex-direction: column;
-      color: #e91313;
-    }
-  
-  
-
-@media screen and (max-width: 768px) {
-    .flexbox {
-      flex-direction: column;
-    }
-  }
-  
-@media screen and (max-width: 576px) {
-    .flexbox {
-      flex-direction: column;
-    }
-  }
