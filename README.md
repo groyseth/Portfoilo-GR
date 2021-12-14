@@ -17,7 +17,10 @@ I went back and added an overlay to the header main picture with the text "Welco
 Link to deployed page "file:///C:/Users/groys/Desktop/Portfoilo-GR/index.html"
     
 
-Link to deployed page "file:///C:/Users/groys/Desktop/Portfoilo-GR/index.html"
 
 
-![Screenshot!](assets\screenshots\Screenshot (2).png)
+
+
+![Screenshot (2)](https://user-images.githubusercontent.com/90479839/146094187-f6664823-d886-4f66-ad1b-f09c8fb3aba5.png)
+![Screenshot (3)](https://user-images.githubusercontent.com/90479839/146094195-38228586-3d70-439d-9128-f7017e09b4e9.png)
+![Screenshot (4)](https://user-images.githubusercontent.com/90479839/146094202-0e70b85a-3756-423b-a528-26c9ddc4ef09.png)
