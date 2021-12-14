@@ -14,5 +14,5 @@ with the page.
     
     
     Link to deployed page "file:///C:/Users/groys/Desktop/Portfoilo-GR/index.html"
-    <img src="assets\screenshots\Screenshot (2).png">
+    <img src="assets\screenshots\Screenshot20%(2).png">
 
