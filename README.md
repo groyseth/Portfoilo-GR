@@ -18,5 +18,6 @@ Link to deployed page "file:///C:/Users/groys/Desktop/Portfoilo-GR/index.html"
     
 
 Link to deployed page "file:///C:/Users/groys/Desktop/Portfoilo-GR/index.html"
-<img src="assets\screenshots\Screenshot20%(2).png">
-!(Screenshot!)(assets\screenshots\Screenshot (2).png)
+
+
+![Screenshot!](assets\screenshots\Screenshot (2).png)
