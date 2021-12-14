@@ -70,11 +70,15 @@ body {
     border: 2px solid rgb(15, 15, 15);
     border-radius: 5px;
     padding: 1px;
-    /* width: 12%; */
+    width: 74%;
     margin: 52px 75px -165px 76px;
     height: 147px;
     /* position: absolute; */
-    box-sizing: border-box;
+    /* box-sizing: border-box; */
+    position: relative;
+    left: -39px;
+    /* display: inline-block; */
+    float: left;
 }
 .my-pic {
     width: 100%;
@@ -250,4 +254,121 @@ h3 {
     text-align: center;
     font-size: 33px;
 
+}
+
+@media screen and (max-width: 768px) { 
+    .about-me {
+        position: relative;
+        top: 3px;
+    }
+    .work {
+        position: relative;
+        top: 3px;
+    }
+    .contact {
+        top: 2px;
+    }
+    .flexbox {
+        width: 82%;
+        position: relative;
+        left: 20px;
+        display: inline-block;
+    }
+    .flexbox-2 {
+        position: relative;
+        left: 34px;
+    }
+    .about-text {
+        font-size: 25px;
+        height: auto;
+    }
+    .side-text {
+        width: 0%;
+        font-size: 0px;
+        margin-left: 10px;
+    }
+    .img {
+        flex-direction: row;
+        flex: 100%;
+        margin: -140px 0px;
+    }
+    .box-flex-javascript {
+        display: inline-block;
+        right: -22px;
+    }
+    .flexbox-3 {
+        display: inline-block;
+        margin: 100px 34px;
+    }
+    .aside {
+    width: auto;
+    }
+    .box-pro{
+    left: -23%;
+    position: relative;
+    }
+    .box-flex-css {
+        display: inline-block;
+        right: -22px;
+    }
+    
+}
+
+@media screen and (max-width: 415px) {
+    .about-me {
+        position: relative;
+        top: 3px;
+    }
+    .work {
+        position: relative;
+        top: 3px;
+    }
+    .contact {
+        top: 2px;
+    }
+    .flexbox {
+        width: 82%;
+        position: relative;
+        left: -3px;
+        display: inline-block;
+    }
+    .flexbox-2 {
+        position: relative;
+        left: 6px;
+    }
+    .about-text {
+        font-size: 25px;
+        height: auto;
+    }
+    .side-text {
+        width: 0%;
+        font-size: 0px;
+        margin-left: 10px;
+    }
+    .img {
+        flex-direction: row;
+        flex: 100%;
+        margin: -140px 0px;
+    }
+    .box-flex-javascript {
+        display: inline-block;
+        right: -15px;
+    }
+    .flexbox-3 {
+        display: inline-block;
+        margin: 100px 6px;
+    }
+    .aside {
+    width: auto;
+    }
+    .box-pro{
+    left: -23%;
+    position: relative;
+    }
+    .box-flex-css {
+        display: inline-block;
+        right: -22px;
+        width: 44%;
+    }
+    
 }
