@@ -13,6 +13,11 @@ Next I made some media quarries for a max width of 415px, 768px and 1177px.
 I went back and added an overlay to the header main picture with the text "Welcome!" once hovered over.
     
     
+
 Link to deployed page "file:///C:/Users/groys/Desktop/Portfoilo-GR/index.html"
     
+
+Link to deployed page "file:///C:/Users/groys/Desktop/Portfoilo-GR/index.html"
+<img src="assets\screenshots\Screenshot20%(2).png">
+
 
