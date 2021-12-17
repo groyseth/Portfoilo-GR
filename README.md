@@ -14,7 +14,7 @@ I went back and added an overlay to the header main picture with the text "Welco
     
     
 
-Link to deployed page "file:///C:/Users/groys/Desktop/Portfoilo-GR/index.html"
+[My Portfoil link](https://groyseth.github.io/Portfoilo-GR/ "Check it out!")
     
 
 
