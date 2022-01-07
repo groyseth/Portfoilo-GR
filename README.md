@@ -1,4 +1,4 @@
-   # Portfoilo Grant Royseth
+   # Portfoilo Grant Royseth * Update *
 To start I made an HTML file and Assets folder that contains my css folder and imgs file.
 I placed a rest.css in my css folder and liked it to html
 I made a wireframe for all my boxes, header, and the main body.
@@ -11,7 +11,9 @@ Then I got the links in the header liked to the desonations in the main.
 I filled out the about me and footer that have links with my contact information.
 Next I made some media quarries for a max width of 415px, 768px and 1177px.
 I went back and added an overlay to the header main picture with the text "Welcome!" once hovered over.
-    
+# Update
+   I added my work links from github to the work section and replaced to placeholder images with new ones.
+   
     
 
 [My Portfoil link](https://groyseth.github.io/Portfoilo-GR/ "Check it out!")
