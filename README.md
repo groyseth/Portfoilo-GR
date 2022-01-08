@@ -23,6 +23,7 @@ I went back and added an overlay to the header main picture with the text "Welco
 
 
 
-![Screenshot (2)](https://user-images.githubusercontent.com/90479839/146094187-f6664823-d886-4f66-ad1b-f09c8fb3aba5.png)
-![Screenshot (3)](https://user-images.githubusercontent.com/90479839/146094195-38228586-3d70-439d-9128-f7017e09b4e9.png)
-![Screenshot (4)](https://user-images.githubusercontent.com/90479839/146094202-0e70b85a-3756-423b-a528-26c9ddc4ef09.png)
+
+![Screenshot (32)](https://user-images.githubusercontent.com/90479839/148633912-8070db9c-fcd9-42bb-87c7-b0451d690ede.png)
+![Screenshot (33)](https://user-images.githubusercontent.com/90479839/148633917-8e8444dc-6ed6-48f7-a6d2-71667f75e605.png)
+![Screenshot (34)](https://user-images.githubusercontent.com/90479839/148633920-aa96d980-93c1-4632-87c3-e42a48e17719.png)
