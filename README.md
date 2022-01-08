@@ -1,5 +1,5 @@
-   # Portfoilo Grant Royseth * Update *
-To start I made an HTML file and Assets folder that contains my css folder and imgs file.
+   # Portfoilo Grant Royseth 
+   To start I made an HTML file and Assets folder that contains my css folder and imgs file.
 I placed a rest.css in my css folder and liked it to html
 I made a wireframe for all my boxes, header, and the main body.
 Once I had all my boxs in place I worked on the header, finding colors and images that looked good
