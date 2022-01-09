@@ -13,8 +13,10 @@ Next I made some media quarries for a max width of 415px, 768px and 1177px.
 I went back and added an overlay to the header main picture with the text "Welcome!" once hovered over.
 # Update
    I added my work links from github to the work section and replaced to placeholder images with new ones.
-   I added my projects ReadMe.
    Updated Linkedin with portfoilo and resume.
+   I added a folder of project readme's in assets folder.
+  
+
     
 
 [My Portfoil link](https://groyseth.github.io/Portfoilo-GR/ "Check it out!")
