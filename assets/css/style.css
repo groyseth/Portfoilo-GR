@@ -142,10 +142,10 @@ h2 {
 .scrollable {
     overflow-y: scroll;
     position: relative;
-    height: 150px;
+    height: 130px;
 }
 .bigScrollable {
-    overflow-y: scroll;
+    overflow-y: hidden;
     height: 130px;
 }
 ::-webkit-scrollbar {
@@ -240,6 +240,9 @@ footer {
     about {
         font-size: 25px;
     }
+    .bigScrollable {
+        overflow-y: hidden;
+    }
 }
 
 
@@ -249,6 +252,9 @@ footer {
     }
     .box-pro {
         margin-left: 33%;
+    }
+    .bigScrollable {
+        overflow-y: scroll;
     }
 }
 
@@ -337,6 +343,9 @@ footer {
     .box-flex-css {
         right: -22px;
     }
+    .bigScrollable{
+        overflow-y: scroll;
+    }
     
 }
 /* @media screen and (max-width: 415px) */
@@ -407,12 +416,14 @@ footer {
         height: 50px;
     }
     .bigScrollable {
+        overflow-y: scroll;
         height: 42px;
     }
 }
 @media screen and (max-width: 360px) {
     .bigScrollable {
         height: 46px;
+        overflow-y: scroll;
     }
     .scrollable {
         bottom: 0px;
